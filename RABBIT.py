@@ -47,7 +47,7 @@ print "<===============================>"
 print "CREATED=MR.MAYKELS"
 print "thanks to=Mr.NEWBIE,K4PUYU4K,C0P3T B3RCL4SS,CYBERHOOD,ALL Member Rabbit Security Team"
 print
-ip = raw_input("MASUKAN IP TAGET ===> ")
+ip = raw_input("MASUKAN IP TARGET ===> ")
 port = input("Port       ===> ")
 
 os.system("clear")
